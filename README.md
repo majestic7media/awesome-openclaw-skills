@@ -1141,6 +1141,7 @@ If you think a skill was incorrectly excluded or miscategorized, feel free to op
 - [geo-optimizer](https://github.com/openclaw/skills/tree/main/skills/artyomx33/geo-optimizer/SKILL.md) - Optimize content for AI citation (GEO).
 - [gita-sotd](https://github.com/openclaw/skills/tree/main/skills/apatki1996/gita-sotd/SKILL.md) - Get the Bhagavad Gita Slok of the Day (SOTD) or fetch specific verses.
 - [gno-bak-2026-01-28t18-01-20-10-30](https://github.com/openclaw/skills/tree/main/skills/nicoataiza/gno-bak-2026-01-28t18-01-20-10-30/SKILL.md) - Search local documents
+- [goodreads](https://github.com/openclaw/skills/blob/main/skills/surajssd/goodreads/SKILL.md) - Search books, get reviews, and manage reading lists on Goodreads.
 - [google-maps-grounding-lite-mcp](https://github.com/openclaw/skills/tree/main/skills/ryanbaumann/google-maps-grounding-lite-mcp/SKILL.md) - Google Maps Grounding Lite
 - [google-news-api](https://github.com/openclaw/skills/tree/main/skills/phheng/google-news-api/SKILL.md) - Scrape structured news data from Google News automatically.
 - [google-search](https://github.com/openclaw/skills/tree/main/skills/mxfeinberg/google-search/SKILL.md) - Search the web using Google Custom Search Engine (PSE).
